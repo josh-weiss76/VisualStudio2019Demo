@@ -7,6 +7,7 @@ namespace VisualStudio2019Demo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("This is a change");
         }
     }
 }
